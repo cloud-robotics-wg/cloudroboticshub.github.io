@@ -1,17 +1,5 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
-
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+michaelhart:
+  name: Michael Hart
+  title: Maintainer of Cloud Robotics Hub and Lead of Cloud Robotics Working Group
+  url: https://mikelikesrobots.github.io
+  image_url: https://mikelikesrobots.github.io/img/headshot-cropped.webp
