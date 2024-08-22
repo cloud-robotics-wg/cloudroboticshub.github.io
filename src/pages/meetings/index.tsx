@@ -53,10 +53,29 @@ export default function Meetings(): JSX.Element {
             </li>
           </ul>
 
-          <Heading as="h2">Upcoming Meeting: 2024-08-14</Heading>
+          <Heading as="h2">Upcoming Meeting: 2024-08-26</Heading>
           <p>
-            We will use this meeting to discuss any updates on cloud robotics.
+            The group plans to use this meeting to discuss cloud robotics news,
+            and the updates made to the Cloud Robotics Hub website by the
+            group's members.
           </p>
+
+          <Heading as="h2">2024-08-12</Heading>
+          <p>
+            This meeting, the group took a look at progress on the Cloud
+            Robotics Hub website, then agreed tasks to split between themselves
+            to get the site closer to publishing.
+          </p>
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/HTSC1bgg1rQ?si=oLsfvzp6UxauOW-q"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen
+          ></iframe>
 
           <Heading as="h2">2024-07-29</Heading>
           <p>
