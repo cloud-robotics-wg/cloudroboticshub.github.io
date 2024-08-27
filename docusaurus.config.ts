@@ -33,13 +33,7 @@ const config: Config = {
     [
       'classic',
       {
-        docs: {
-          sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          // editUrl:
-          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        docs: false,
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
@@ -61,15 +55,9 @@ const config: Config = {
       title: 'Cloud Robotics Hub',
       logo: {
         alt: 'Cloud Robotics Hub Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
-        // {
-        //   type: 'docSidebar',
-        //   sidebarId: 'tutorialSidebar',
-        //   position: 'left',
-        //   label: 'Tutorial',
-        // },
         {to: '/blog', label: 'Blog', position: 'left'},
         {to: '/meetings', label: 'Meetings', position: 'left'},
         {to: '/resources', label: 'Resources', position: 'left'},
@@ -84,15 +72,6 @@ const config: Config = {
     footer: {
       style: 'dark',
       links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Tutorial',
-              to: '/docs/intro',
-            },
-          ],
-        },
         {
           title: 'Community',
           items: [

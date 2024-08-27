@@ -1,16 +1,12 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+ros:
+  label: ROS
+  permalink: /ros
+  description: Related to ROS, the Robot Operating System
+rostool:
+  label: ROS Tool
+  permalink: /rostool
+  description: Related to ROS Tool, the robot to web capability from Transitive Robotics
+guest:
+  label: Guest
+  permalink: /guest
+  description: Related to resources provided by a guest
