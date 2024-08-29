@@ -8,14 +8,14 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://cloud-robotics-wg.github.io',
+  url: 'https://cloudroboticshub.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'cloud-robotics-wg', // Usually your GitHub org/user name.
+  organizationName: 'cloudroboticshub', // Usually your GitHub org/user name.
   projectName: 'cloudroboticshub.github.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -95,6 +95,10 @@ const config: Config = {
             {
               label: 'Blog',
               to: '/blog',
+            },
+            {
+              label: 'GitHub',
+              to: 'https://github.com/cloudroboticshub/cloudroboticshub.github.io',
             },
           ],
         },
