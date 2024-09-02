@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Frequently Updated Blog',
-    Svg: require('@site/static/img/noun-blog-7024995.svg').default,
+    Svg: require('@site/static/img/blog-icon.svg').default,
     description: (
       <>
         Published blogs with recent talks and news from the Cloud Robotics Working Group.
@@ -20,7 +20,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Cloud Robotics Resources',
-    Svg: require('@site/static/img/noun-artificial-intelligence-2366500.svg').default,
+    Svg: require('@site/static/img/cloud-data-download-icon.svg').default,
     description: (
       <>
         Find the best online resources available, curated by the Working Group.
@@ -29,7 +29,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'State of Cloud Robotics',
-    Svg: require('@site/static/img/noun-survey-7048795.svg').default,
+    Svg: require('@site/static/img/surveys-icon.svg').default,
     description: (
       <>
         See the latest crowd-sourced knowledge from the State of Cloud Robotics survey.
