@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Cloud Robotics Hub (Under Construction)',
+  title: 'Cloud Robotics Hub',
   tagline: 'Gathering information about Cloud Robotics for use by everyone.',
   favicon: 'img/favicon.ico',
 
@@ -104,10 +104,7 @@ const config: Config = {
         },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Cloud Robotics Working Group. Built with Docusaurus.<br/>
-      Credits: <a href="https://thenounproject.com/browse/icons/term/blog/" target="_blank" title="Blog Icons">Blog by Dierys Design</a>,
-      <a href="https://thenounproject.com/browse/icons/term/artificial-intelligence/" target="_blank" title="Artificial Intelligence Icons">Artificial Intelligence by ProSymbols</a>, and
-      <a href="https://thenounproject.com/browse/icons/term/survey/" target="_blank" title="Survey Icons">Survey by Kartika Sholehatin</a>
-      from the <a href="https://thenounproject.com" target="_blank" title="Noun Project">Noun Project</a> (CC BY 3.0).
+      Credits: UXWing at https://uxwing.com - see <a href=https://uxwing.com/license/">license terms</a>.
       `,
 
     },
