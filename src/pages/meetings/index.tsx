@@ -16,7 +16,7 @@ export default function Meetings(): JSX.Element {
           </p>
 
           <p>
-            All meetings are public and held every two weeks from 1600-1700 UTC.
+            All meetings are public and held every two weeks from 1700-1800 UTC.
             Please feel free to join us. There are some details below for extra
             information:
           </p>
