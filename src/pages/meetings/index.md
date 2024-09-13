@@ -12,9 +12,28 @@ information:
 - <a href="https://drive.google.com/drive/folders/1TkuaU2_9_QdL-u0pftaIGQu6ecTN5Ci1">Google Drive folder</a>, where we keep all of our public documents.
 - <a href="https://calendar.google.com/calendar/u/0/embed?src=c_3fc5c4d6ece9d80d49f136c1dcd54d7f44e1acefdbe87228c92ff268e85e2ea0@group.calendar.google.com&ctz=America/Los_Angeles">Open Robotics Community Calendar</a>, where you can sign up to receive calendar reminders of our meetings.
 
+## Upcoming Guest Talk - Florian Pokorny (2024-09-23)
+
+This meeting, the group will host [Florian Pokorny](https://www.csc.kth.se/~fpokorny/), Associate Professor of Machine Learning at [KTH Royal Institute Technology](https://www.kth.se/) and Co-Founder of [Scaleup Robotics](https://scaleuprobotics.com/)! Florian has agreed to talk about [CloudGripper](https://cloudgripper.org/), [An Open Source Cloud Robotics Testbed for Robotic Manipulation Research, Benchmarking and Data Collection at Scale](https://arxiv.org/abs/2309.12786).
+
+The talk will be recorded and hosted on YouTube, with a new blog post on our [Blogs](/blog) once it is ready!
+
+In addition, the group plans to discuss further updates to the Cloud Robotics Hub site.
+
 ## 2024-09-09
 The group discussed the launch of the new Cloud Robotics Hub
 site and discussed potential improvements. Akash Vibhute from Intrinsic/OpenRMF attended and we discussed him possibly presenting to the group, potentially along the lines of his upcoming ROSCon talk.
+
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/0Bye6AUCdrg?si=wBUiRBdSSBHbodBv"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen
+></iframe>
 
 ## 2024-08-26
 This meeting, the group discussed updates on the hub site, then
