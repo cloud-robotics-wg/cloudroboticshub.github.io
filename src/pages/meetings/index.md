@@ -12,7 +12,7 @@ information:
 - <a href="https://drive.google.com/drive/folders/1TkuaU2_9_QdL-u0pftaIGQu6ecTN5Ci1">Google Drive folder</a>, where we keep all of our public documents.
 - <a href="https://calendar.google.com/calendar/u/0/embed?src=c_3fc5c4d6ece9d80d49f136c1dcd54d7f44e1acefdbe87228c92ff268e85e2ea0@group.calendar.google.com&ctz=America/Los_Angeles">Open Robotics Community Calendar</a>, where you can sign up to receive calendar reminders of our meetings.
 
-## Upcoming Guest Talk - Florian Pokorny (2024-09-23)
+## Next meeting, guest talk: CloudGripper, by Florian Pokorny (2024-09-23)
 
 This meeting, the group will host [Florian Pokorny](https://www.csc.kth.se/~fpokorny/), Associate Professor of Machine Learning at [KTH Royal Institute Technology](https://www.kth.se/) and Co-Founder of [Scaleup Robotics](https://scaleuprobotics.com/)! Florian has agreed to talk about [CloudGripper](https://cloudgripper.org/), [An Open Source Cloud Robotics Testbed for Robotic Manipulation Research, Benchmarking and Data Collection at Scale](https://arxiv.org/abs/2309.12786).
 
