@@ -1,12 +1,13 @@
 # Resources
 
-- [Fog Robotics](https://sites.google.com/view/fogrobotics)
-- [International Conference on Cloud and Robotics](https://www.cloudrobotics.info/)
-- [CloudGripper: The Open Source Cloud Robotics Testbed](https://cloudgripper.org)
+- [Fog Robotics](https://sites.google.com/view/fogrobotics) Utilize storage, compute, and networking resources between cloud and edge in a federated manner. From UC Berkeley.
+  - [FogROS 2](https://berkeleyautomation.github.io/FogROS2/about) An Adaptive and Extensible Platform for Cloud and Fog Robotics Using ROS 2. [Code](https://github.com/BerkeleyAutomation/FogROS2) 
+- [International Conference on Cloud and Robotics](https://www.cloudrobotics.info/) Ongoing academic conference series on cloud and robotics topics. Proceedings are not available at this site.
+- [CloudGripper: The Open Source Cloud Robotics Testbed](https://cloudgripper.org) Open source cloud robotics testbed for remote robotic manipulation research, benchmarking, and data collection. From KTH Royal Institute of Technology.
 
 ## Web Tools
 
-- [Robot Web Tools](https://robotwebtools.github.io/)
+- [Robot Web Tools](https://robotwebtools.github.io/) Open-source libraries and tools for building web-based robot apps with ROS.
 
 ## Other collections
 
