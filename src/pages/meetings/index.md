@@ -12,13 +12,22 @@ information:
 - <a href="https://drive.google.com/drive/folders/1TkuaU2_9_QdL-u0pftaIGQu6ecTN5Ci1">Google Drive folder</a>, where we keep all of our public documents.
 - <a href="https://calendar.google.com/calendar/u/0/embed?src=c_3fc5c4d6ece9d80d49f136c1dcd54d7f44e1acefdbe87228c92ff268e85e2ea0@group.calendar.google.com&ctz=America/Los_Angeles">Open Robotics Community Calendar</a>, where you can sign up to receive calendar reminders of our meetings.
 
-## Next meeting, guest talk: CloudGripper, by Florian Pokorny (2024-09-23)
+## 2023-10-07 <mark>upcoming guest talk</mark>: Enabling Usable and Reliable Cloud Robotics with FogROS2 (Kaiyuan Eric Chen)
 
-This meeting, the group will host [Florian Pokorny](https://www.csc.kth.se/~fpokorny/), Associate Professor of Machine Learning at [KTH Royal Institute Technology](https://www.kth.se/) and Co-Founder of [Scaleup Robotics](https://scaleuprobotics.com/)! Florian has agreed to talk about [CloudGripper](https://cloudgripper.org/), [An Open Source Cloud Robotics Testbed for Robotic Manipulation Research, Benchmarking and Data Collection at Scale](https://arxiv.org/abs/2309.12786).
+ On  we will host a talk by [Kaiyuan Eric Chen](https://keplerc.github.io/), a PhD student in the Department of Computer Sciences at UC Berkeley and a member of Berkeley Automation Lab working closely with [Ken Goldberg](https://goldberg.berkeley.edu/) and Jeffrey Ichnowski.
+ 
+ Eric has been leading the work on [FogROS2](https://berkeleyautomation.github.io/FogROS2): a state-of-the-art open source cloud robotics framework that offloads unmodified ROS2 applications to the cloud.  He will give a talk overarching the different results obtained with the FogROS2 line of research.
 
-The talk will be recorded and hosted on YouTube, with a new blog post on our [Blogs](/blog) once it is ready!
 
-In addition, the group plans to discuss further updates to the Cloud Robotics Hub site.
+## 2024-09-23 Talk: CloudGripper (Florian Pokorny)
+
+The group hosted a talk about [CloudGripper](https://cloudgripper.org/), [An Open Source Cloud Robotics Testbed for Robotic Manipulation Research, Benchmarking and Data Collection at Scale](https://arxiv.org/abs/2309.12786) by [Florian Pokorny](https://www.csc.kth.se/~fpokorny/), Associate Professor of Machine Learning at [KTH Royal Institute Technology](https://www.kth.se/) and Co-Founder of [Scaleup Robotics](https://scaleuprobotics.com/).
+
+Here's a link to the [blog post and talk recording](blog/florian-pokorny-cloudgripper).
+
+Find the full meeting recording below.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qu3Nb416Dpk?si=n4HWA5s4yG9ePs3H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 2024-09-09
 The group discussed the launch of the new Cloud Robotics Hub
